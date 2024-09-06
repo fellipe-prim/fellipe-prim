@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- https://drive.google.com/drive/folders/1D_OoAE9POgcrPIAIuUcNPqwaqX1cZbV5?usp=sharing<br>-  https://leetcode.com/u/fellipeprim/<br>- https://www.hackerrank.com/profile/Fellipe_prim</p>
+<p align="left">-  https://leetcode.com/u/fellipeprim/<br>- https://www.hackerrank.com/profile/Fellipe_prim</p>
 
 ###
 
