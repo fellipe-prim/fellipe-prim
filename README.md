@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/92knbq"  />
+  <img height="200" src="https://media1.tenor.com/m/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif"/>
 </div>
 
 ###
