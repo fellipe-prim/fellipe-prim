@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Welcome to my profile</h1>
 
-<!--
-**fellipe-prim/fellipe-prim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="200" src="https://imgflip.com/gif/92knbq"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Software development and tecnologies enthusiast.<br><br>-  Software Engeneering Student<br>-  Currently learning MySQL and Java</p>
+
+###
+
+<h3 align="left">🔗  Links</h3>
+
+###
+
+<p align="left">- https://drive.google.com/drive/folders/1D_OoAE9POgcrPIAIuUcNPqwaqX1cZbV5?usp=sharing<br>-  https://leetcode.com/u/fellipeprim/<br>- https://www.hackerrank.com/profile/Fellipe_prim</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
