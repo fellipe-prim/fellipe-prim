@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Software development and tecnologies enthusiast.<br><br>-  Software Engeneering Student<br>-  Currently learning MySQL and Java</p>
+<p align="left">Software development and tecnologies enthusiast.<br><br>-  Software Engeneering Student<br>- Software Developer at SoftExpert<br>-  Currently learning MySQL and Java</p>
 
 ###
 
